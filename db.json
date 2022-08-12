@@ -1,10 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
   "foods": [
     { "id": 1, "title": "Pizza", "type": "food", "imageUrl": "https://img.freepik.com/free-photo/mixed-pizza-with-various-ingridients_140725-3790.jpg?w=2000" },
     { "id": 2, "title": "Spaghetti", "type": "food", "imageUrl": "https://recipe30.com/wp-content/uploads/2022/03/Spaghetti-meatballs.jpg" },
