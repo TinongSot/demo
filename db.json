@@ -15,8 +15,5 @@
     { "id": 13, "title": "Frappuccino", "type": "drink", "imageUrl": "https://insanelygoodrecipes.com/wp-content/uploads/2021/01/starbucks-caramel-frappuccino.png" },
     { "id": 14, "title": "Kombucha Tea", "type": "drink", "imageUrl": "https://cdn.britannica.com/45/192245-050-B1106D0C/Kombucha-lemon.jpg" },
     { "id": 15, "title": "Milkshake", "type": "drink", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-220524-chocolate-milkshake-001-ab-web-1654180529.jpg" },
-  ],
-  "profile": {
-    "name": "tinong"
-  }
+  ]
 }
