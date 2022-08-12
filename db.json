@@ -16,10 +16,6 @@
     { "id": 14, "title": "Kombucha Tea", "type": "drink", "imageUrl": "https://cdn.britannica.com/45/192245-050-B1106D0C/Kombucha-lemon.jpg" },
     { "id": 15, "title": "Milkshake", "type": "drink", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-220524-chocolate-milkshake-001-ab-web-1654180529.jpg" },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "profile": {
     "name": "typicode"
   }
